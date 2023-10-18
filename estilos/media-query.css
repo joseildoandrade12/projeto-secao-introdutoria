@@ -34,10 +34,8 @@
     }
 
     #social{
-        display: flex;
+        justify-content: end;
         align-items: end;
-        justify-content: end;
-        justify-content: end;
-        padding-right: 50px;
+        height: 270px;
     }
 }
