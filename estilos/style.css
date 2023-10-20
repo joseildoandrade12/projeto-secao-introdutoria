@@ -42,7 +42,7 @@ section > #imagem-2 > img{
     padding: 0 40px;
 }
 
-section > h1{
+#conteudo > h1{
     color: white;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
@@ -51,7 +51,7 @@ section > h1{
     text-align: center;
 }
 
-section > p{
+#conteudo > p{
     width: 100%;
     padding: 0 40px;
     font-family: 'Open Sans', sans-serif;
@@ -62,7 +62,7 @@ section > p{
     text-align: center;
 }
 
-section > button{
+#conteudo > button{
     width: 250px;
     height: 50px;
     border: none;
@@ -74,14 +74,14 @@ section > button{
     margin-bottom: 20px;
 }
 
-section > button:hover{
+#conteudo > button:hover{
     background-color: hsl(300, 69%, 71%);
     color: white;
     cursor: pointer;
 }
 
 div#social{
-    display: block;
+    
     width: 100%;
     display: flex;
     align-items: center;
