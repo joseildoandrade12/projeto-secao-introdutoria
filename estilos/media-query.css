@@ -3,39 +3,5 @@
 
 
 @media screen and (min-width: 992px) {
-    main{
-        width: 100%;
-        background-image: url(../images/bg-desktop.svg);
-        background-size: cover;
-    }
-
-    #imagem-1{
-        width: 300px;
-        margin-bottom: 150px;
-    }
-
-    #imagem-2{
-        display: inline-block;
-        background-size: contain;
-        margin-left: 50px;
-        width: 50%;
-        height: 300px;
-    }
-
-    section{
-        display: inline-block;
-        width: 40%;
-        height: 400px;
-    }
-
-    section > #botao{
-        margin-left: 10px;
-        height: 60px;
-    }
-
-    #social{
-        justify-content: end;
-        align-items: end;
-        height: 270px;
-    }
+    
 }
